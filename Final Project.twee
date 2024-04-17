@@ -1,0 +1,201 @@
+:: StoryTitle
+Final Project
+
+
+:: StoryData
+{
+  "ifid": "9687DD92-72DB-4C12-A8CB-D87316E3A9CE",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Introduction",
+  "zoom": 0.6
+}
+
+
+:: Boy {"position":"175,375","size":"100,100"}
+Left with the whole day to yourself, you decide to do some online gaming, Valorwatch 2 has voice chat and teamwork is extremely important. Do you want to put on your headset?
+
+[[Put on headset]]
+[[Don't put on headset]]
+
+
+
+:: Do Nothing {"position":"50,825","size":"100,100"}
+Even after seeing your team struggle, you decide to do nothing and remain muted. You do your best to communicate with them through visual cues and text chat, but it doesn’t help too much. Your teammates become very frustrated at you and threaten to find a new teammate if you don’t start talking.
+
+[[Stay muted]]
+[[Unmute mic]]
+[[Leave the game and play by yourself]]
+
+
+
+:: Do nothing {"position":"425,675","size":"100,100"}
+You continue to play the game without typing in text chat or turning on your headset, your team keeps harassing you in text chat the rest of the game and you end up losing. 
+
+[End for Now] 
+
+
+
+:: Don't put on headset {"position":"300,500","size":"100,100"}
+You decide that you don't have the mental energy to communicate with the team even though it will make gameplay more difficult. Your teammates start harassing you in text chat because you are not listening to their callouts which negatively impacts your experience. 
+
+[[Type in text chat]]
+[[Do nothing]]
+[[Join voice chat]]
+
+
+
+:: Don’t talk before game {"position":"850,625","size":"100,100"}
+You decide not talking will make it easier to play without unnecessary attention. You want to prove yourself before people make judgements because you’re a girl. 
+
+[[Talk now]]
+[[Keep silent]]
+
+
+
+:: Girl {"position":"650,350","size":"100,100"}
+Left with the whole day to yourself, you decide to do some online gaming, Valorwatch 2 has voice chat and teamwork is extremely important. Do you want to put on your headset?
+
+
+
+<img src=https://github.com/AllyZhu/EMS423FinalProject/blob/a9f797735fcad999ceee586e5fe79d7b0f3f4b00/BSGO_Intro_to_Gaming_220923-Photo_by_Lexi-1.jpg>
+
+
+[[Put on your headset]]
+[[Leave headset]]
+
+
+
+
+:: Introduction {"position":"475,175","size":"100,100"}
+This is a game about being in someone else's shoes. Who do you want to be today?
+
+[[Boy]] 
+[[Girl]] 
+
+
+
+
+
+:: Join chat {"position":"700,800","size":"100,100"}
+You start talking and everyone is shocked. You hear “wow, is there a girl in here” and “don’t listen to him, he’s an idiot.” As you keep playing, the comments continue. 
+
+[[Tell them to focus on the game]]
+[[Joke with them]]
+[[Say nothing]] 
+
+
+:: Join voice chat {"position":"550,675","size":"100,100"}
+
+
+
+:: Joke with them {"position":"975,975","size":"100,100"}
+Make some jokes with them and it turns out well. People enjoy your jokes, but there are still people who push your boundaries. However, you would rather join them then be the butt of their jokes. 
+
+
+:: Keep silent {"position":"1150,750","size":"100,100"}
+You can hear everything they say, but you decide that it’s better to say nothing because you want them to judge you based on your skill. Unfortunately, that means your teammates are slightly frustrated because they think they can’t communicate with you. Someone asks if you have a mic. 
+
+[[Say nothing]]
+[[Talk now]]
+
+
+
+
+:: Leave headset {"position":"537.5,500","size":"100,100"}
+You decide that you don't have the mental energy to communicate with the team even though it will make gameplay more difficult. Your teammates start harassing you in text chat because you are not listening to their callouts which negatively impacts your experience. 
+
+[[Type in text chat]]
+[[Do nothing]]
+[[Join chat]]
+
+
+
+:: Leave the game and play by yourself {"position":"112.5,950","size":"100,100"}
+You get fed up with your toxic team and  not wanting them to ruin your fun you leave and find a different lobby. Luckily your friends are online and ask you to play. You have a fun afternoon gaming with you friends
+
+
+
+:: Put on headset {"position":"25,475","size":"100,100"}
+You put on the headset, as you want to be a good teammate and possibly make some new friends. However, it has been a long week and you're unsure if you want to talk
+
+[[Unmute mic]]
+[[stay muted]]
+
+
+
+:: Put on your headset {"position":"775,475","size":"100,100"}
+You put on your headset because you want to be a good teammate and you think you may learn some good tips along the way. You want to talk before the game starts, but you don’t want people to judge you for being a girl since people haven’t wanted to play with you for being a girl before.
+
+[[Talk before game]]
+[[Don’t talk before game]]
+
+
+
+:: Say nothing {"position":"1125,950","size":"100,100"}
+You continue to keep silent, and now your team is ignoring you. You feel bad, but you want to protect yourself. The game ends and everyone is frustrated with you.  
+
+END
+
+
+:: Stay muted {"position":"0,950","size":"100,100"}
+
+
+
+:: Talk before game {"position":"725,625","size":"100,100"}
+You start talking and everyone is shocked. You hear “wow, is there a girl in here” and “don’t listen to him, he’s an idiot.” As you keep playing, the comments continue. 
+
+[[Tell them to focus on the game]]
+[[Joke with them]]
+[[Say nothing]] 
+
+
+:: Talk now {"position":"975,775","size":"100,100"}
+You start talking and everyone is shocked. You hear “wow, is there a girl in here” and “don’t listen to him, he’s an idiot.” As you keep playing, the comments continue. 
+
+[[Tell them to focus on the game]]
+[[Joke with them]]
+[[Say nothing]] 
+
+
+
+:: Tell them to focus on the game {"position":"800,950","size":"100,100"}
+You tell them to focus on the game and you have very cold conversation for the rest of the game. Some agree with you while others think you're a party pooper. You don't know how to feel about the session. 
+
+
+:: Type in text chat {"position":"300,675","size":"100,100"}
+You decide to type in text chat to communicate to your team, but they keep typing back to you things like "Mic?" Or "Comms?", trying to convince you to turn on your mic and talk to them. Will you give into their pressure?
+
+[[Unmute mic]]
+[[stay muted]]
+
+
+
+:: Unmute and Communicate {"position":"175,825","size":"100,100"}
+You give into your teammates' demands and unmute. You're immediately met with harsh words and insults for "throwing". After experiencing this you debate if you want to leave and join another lobby
+
+[[stay in the lobby]]
+[[leave and find another lobby]]
+
+
+
+:: Unmute mic {"position":"0,625","size":"100,100"}
+You decide that regardless of how tired you are from the week that it is in your team's best interest that you turn on your mic and try to communicate with them.  The team communicates just fine for the first half of the game until your team starts falling behind and everyone begins accusing each other of throwing the game. You don’t have the mental energy to fight back so you stop talking all together. Shortly after, all communication stops, and you continue to play in silence.  
+
+
+
+:: leave and find another lobby {"position":"362.5,950","size":"100,100"}
+
+
+
+:: stay in the lobby {"position":"237.5,950","size":"100,100"}
+
+
+
+:: stay muted {"position":"125,625","size":"100,100"}
+You stay muted and try to have fun while listening to your team's comms. You notice that you team is having a tough time staying coordinated without your communication. 
+
+
+[[Do Nothing]]
+[[Unmute and Communicate]]
+
